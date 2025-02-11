@@ -1,0 +1,30 @@
+D:\Leave management (Admin)\Leave management (Admin)\bin\Debug\Leave management (Admin).exe.config
+D:\Leave management (Admin)\Leave management (Admin)\bin\Debug\Leave management (Admin).exe
+D:\Leave management (Admin)\Leave management (Admin)\obj\Debug\Leave management (Admin).csproj.AssemblyReference.cache
+D:\Leave management (Admin)\Leave management (Admin)\obj\Debug\Leave_management__Admin_.Dashboard.resources
+D:\Leave management (Admin)\Leave management (Admin)\obj\Debug\Leave_management__Admin_.Login.resources
+D:\Leave management (Admin)\Leave management (Admin)\obj\Debug\Leave_management__Admin_.Properties.Resources.resources
+D:\Leave management (Admin)\Leave management (Admin)\obj\Debug\Leave management (Admin).csproj.GenerateResource.cache
+D:\Leave management (Admin)\Leave management (Admin)\obj\Debug\Leave management (Admin).csproj.CoreCompileInputs.cache
+D:\Leave management (Admin)\Leave management (Admin)\obj\Debug\Leave management (Admin).exe
+D:\Leave management (Admin)\Leave management (Admin)\obj\Debug\Leave management (Admin).pdb
+D:\Leave management (Admin)\Leave management (Admin)\bin\Debug\Leave management (Admin).pdb
+D:\Leave management (Admin)\Leave management (Admin)\obj\Debug\Leave_management__Admin_.Register.resources
+D:\Leave management (Admin)\Leave management (Admin)\obj\Debug\Leave_management__Admin_.Update_Employee.resources
+D:\Leave management (Admin)\Leave management (Admin)\obj\Debug\Leave_management__Admin_.Requested_Leaves.resources
+D:\Leave management (Admin)\Leave management (Admin)\obj\Debug\Leave_management__Admin_.Leave_Report.resources
+D:\esoft\Leave management (Admin)\Leave management (Admin)\bin\Debug\Leave management (Admin).exe.config
+D:\esoft\Leave management (Admin)\Leave management (Admin)\bin\Debug\Leave management (Admin).exe
+D:\esoft\Leave management (Admin)\Leave management (Admin)\bin\Debug\Leave management (Admin).pdb
+D:\esoft\Leave management (Admin)\Leave management (Admin)\obj\Debug\Leave management (Admin).csproj.AssemblyReference.cache
+D:\esoft\Leave management (Admin)\Leave management (Admin)\obj\Debug\Leave_management__Admin_.Dashboard.resources
+D:\esoft\Leave management (Admin)\Leave management (Admin)\obj\Debug\Leave_management__Admin_.Leave_Report.resources
+D:\esoft\Leave management (Admin)\Leave management (Admin)\obj\Debug\Leave_management__Admin_.Login.resources
+D:\esoft\Leave management (Admin)\Leave management (Admin)\obj\Debug\Leave_management__Admin_.Properties.Resources.resources
+D:\esoft\Leave management (Admin)\Leave management (Admin)\obj\Debug\Leave_management__Admin_.Register.resources
+D:\esoft\Leave management (Admin)\Leave management (Admin)\obj\Debug\Leave_management__Admin_.Requested_Leaves.resources
+D:\esoft\Leave management (Admin)\Leave management (Admin)\obj\Debug\Leave_management__Admin_.Update_Employee.resources
+D:\esoft\Leave management (Admin)\Leave management (Admin)\obj\Debug\Leave management (Admin).csproj.GenerateResource.cache
+D:\esoft\Leave management (Admin)\Leave management (Admin)\obj\Debug\Leave management (Admin).csproj.CoreCompileInputs.cache
+D:\esoft\Leave management (Admin)\Leave management (Admin)\obj\Debug\Leave management (Admin).exe
+D:\esoft\Leave management (Admin)\Leave management (Admin)\obj\Debug\Leave management (Admin).pdb
