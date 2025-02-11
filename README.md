@@ -19,7 +19,7 @@ The **Leave Management System** is a desktop application built entirely with C# 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YOUR_USERNAME/Leave-Management-System.git
+   git clone https://github.com/sahan799/Leave-Management-System-Admin-/tree/main
    ```
 2. Open the project in **Visual Studio**.
 3. Restore NuGet packages if required.
